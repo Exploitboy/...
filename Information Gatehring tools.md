@@ -1,11 +1,1 @@
-- [Whois](#www.whois.com)
-- [Nmap](#nmap.org)
-- [RED-HAWK] (#https://github.com/Tuhinshubhra/RED_HAWK)
-- [theHarvester] (#https://github.com/laramies/theHarvester)
-- [sublist3r] (#https://github.com/aboul3la/Sublist3r)
-- [recon-ng](#https://github.com/lanmaster53/recon-ng)
-- [whatweb](#https://www.kali.org/tools/whatweb/)
-- [virustotal][#https://virustotal.com)
-- [hunter.io] (#https://hunter.io)
-- [DNSchecker](#https://dnschecker.org/)
-- [ping](#pingtool.org)
+ 
